@@ -64,7 +64,7 @@ http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="25" ch-number="25" tvg-id="GMM25.th" tvg-name="GMM25"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",GMM25
 http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE 31 HD.t" tvg-name="ONE"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",ONE
+#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE 31 HD.th" tvg-name="ONE"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",ONE
 http://45.154.24.21:80/play/Le2pKCW9lskp5UzaiHeHd7HybXKbemzRDM5dE5NUEfg/m3u8
 
 #EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint TV.th" tvg-name="WORKPOINT"  tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-workpoint.png",WORKPOINT
