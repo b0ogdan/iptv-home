@@ -84,10 +84,6 @@ https://edge6a.v2h-cdn.com/news1/news1.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="77" ch-number="4" tvg-id="ALTV4.th" tvg-name="TOPNEW HD"  tvg-logo="https://i.postimg.cc/TwwQXPFc/TOPNEW.jpg",TOPNEW HD
 https://live.topnews.co.th/hls/topnews_720.m3u8
 
-
-#EXTINF:-1 tvg-chno="8" ch-number="8" tvg-id="TVB Thai.th" tvg-name="TVB Thai"  tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_y_x5ZRi3AUV0bIdqSw1OyMfhTC6GoDjNYz.png",TVB Thai
-https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV.th" tvg-name="TPTV"  tvg-logo="https://i.postimg.cc/gJz8LvpC/TPTV.jpg",TPTV
 https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
 
