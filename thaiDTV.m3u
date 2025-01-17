@@ -75,7 +75,7 @@ http://45.154.24.21:80/play/Le2pKCW9lskp5UzaiHeHd7HybXKbemzRDM5dE5NUEfg/m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 
 
-#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV4"  tvg-logo="https://www.i-pic.info/i/4Bol643617.png",ALTV4
+#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV4.th" tvg-name="ALTV4"  tvg-logo="https://www.i-pic.info/i/4Bol643617.png",ALTV4
 https://edge6a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="76" ch-number="4" tvg-id="ALTV.th" tvg-name="NEWS1"  tvg-logo="https://news1live.com/images/social-share-logo.png",NEWS1
